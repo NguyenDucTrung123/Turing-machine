@@ -1,1 +1,1 @@
-Main results in files:  turing_machine.py, threeTapeTuringMachine.py, Multiplier.py, palindrome.py, CNgraph.py, TMfunc.py
+Run files:  turing_machine.py, threeTapeTuringMachine.py, Multiplier.py, palindrome.py, CNgraph.py, TMfunc.py
